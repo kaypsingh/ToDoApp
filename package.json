@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "localforage": "^1.7.3",
+    "papercss": "^1.6.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-flip-move": "^3.0.3",
     "react-scripts": "3.0.1"
   },
   "scripts": {
